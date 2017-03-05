@@ -1,6 +1,5 @@
 package br.com.contatos.models;
 
-import java.math.BigInteger;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

@@ -21,10 +21,12 @@ public class ContatosController {
 	public void index() {
 	}
 	
+	/*
 	@Get("/{id}")
 	public void show(int id) {
 		System.out.println(id);
 	}
+	*/
 	
 	protected void addContato() {
 		Contato contato = new Contato();
